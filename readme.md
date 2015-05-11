@@ -150,3 +150,7 @@ You should receive `Listening on *:8080`
 
 This is a simple demo of how stuff works. You could extend as you want!
 
+#Thanks
+
+[codetutorial.io](http://www.codetutorial.io/laravel-5-and-socket-io-tutorial/) for their nice tutorial
+
