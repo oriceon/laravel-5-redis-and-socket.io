@@ -22,6 +22,8 @@ server {
     server_name chat.dev www.chat.dev;
     set $root_path '/vagrant/shared/www/chat/public';
     root $root_path;
+    
+    sendfile off;
 
     index index.php index.html index.htm;
 
